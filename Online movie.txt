@@ -1,0 +1,28 @@
+                                                                  ONLINE MOVIE TICKET BOOKING SYSTEM
+
+SCOPE OF THE PROJECT 
+This is a web application for buying movie tickets online. 
+Customers can buy tickets 24×7.Customer can choose city and name of multiplex where they want to see movie and get their movie timings.
+Customers can see a graphical view of the seat availability and choose their desired seat. They can pay ticket amount online via credit card etc.
+
+USER MODULE
+
+•	Create an account
+•	Search for Movies with desired date and time
+•	Select number of seats
+•	Make Payment
+
+ADMIN MODULE
+
+•	Add/Delete/Update Movie
+•	View Booked tickets
+
+SOFTWARE REQUIREMENTS
+
+•	JAVA
+•	HTML AND CSS
+•	JAVASCRIPT
+•	ANGULAR
+•	SPRING
+•	MAVEN
+•	SQL/MONGODB
